@@ -1,114 +1,113 @@
-<h1 align="center" style="border-bottom: none">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
     <b>
-        <a href="https://www.appflowy.io">AppFlowy.IO</a><br>
-    </b>
-    ⭐️  The Open Source Alternative To Notion  ⭐️ <br>
-</h1>
-
-<p align="center">
-You are in charge of your data and customizations.
+        <a href="https://www.appflowy.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AppFlowy.IO</font></font></a><br>
+    </b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+    ⭐️ Notion 的开源替代品 ⭐️</font></font><br>
+</h1><a id="user-content-------------appflowyio--------️--the-open-source-alternative-to-notion--️-" class="anchor" aria-label="永久链接：AppFlowy.IO ⭐️ Notion 的开源替代品 ⭐️" href="#------------appflowyio--------️--the-open-source-alternative-to-notion--️-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+您负责您的数据和定制。
+</font></font></p>
+<p align="center" dir="auto">
+<a href="https://discord.gg/9Q2xaN37tV" rel="nofollow"><img src="https://camo.githubusercontent.com/1993c844b7a9624167be1a769e1bdd2c3230c975c3b8ab60dfed4c084910bd7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417070466c6f77792e494f2d646973636f72642d6f72616e6765" data-canonical-src="https://img.shields.io/badge/AppFlowy.IO-discord-orange" style="max-width: 100%;"></a>
+<a href="https://github.com/AppFlowy-IO/appflowy"><img src="https://camo.githubusercontent.com/23db44eca52cb0f113ded6e9481b41a9fe2212259aa17d9f7fe62a47a835cf75/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f417070466c6f77792d494f2f617070666c6f77792e7376673f7374796c653d666c6174266c6f676f3d67697468756226636f6c6f72423d6465657070696e6b266c6162656c3d7374617273" data-canonical-src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy.svg?style=flat&amp;logo=github&amp;colorB=deeppink&amp;label=stars" style="max-width: 100%;"></a>
+<a href="https://github.com/AppFlowy-IO/appflowy"><img src="https://camo.githubusercontent.com/e54f99a6c4f4c57b9710cc6feb38b487b2d2303cf30d5004e21c4f43f8437bf4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f417070466c6f77792d494f2f617070666c6f77792e737667" data-canonical-src="https://img.shields.io/github/forks/AppFlowy-IO/appflowy.svg" style="max-width: 100%;"></a>
+<a href="https://opensource.org/licenses/AGPL-3.0" rel="nofollow"><img src="https://camo.githubusercontent.com/aca122719517787a3ef8516f813745b8d8bc3768ee1b1e1b6b2cb27263cb5579/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4147504c2d707572706c652e737667" alt="许可证：AGPL" data-canonical-src="https://img.shields.io/badge/license-AGPL-purple.svg" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-<a href="https://discord.gg/9Q2xaN37tV"><img src="https://img.shields.io/badge/AppFlowy.IO-discord-orange"></a>
-<a href="https://github.com/AppFlowy-IO/appflowy"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy.svg?style=flat&logo=github&colorB=deeppink&label=stars"></a>
-<a href="https://github.com/AppFlowy-IO/appflowy"><img src="https://img.shields.io/github/forks/AppFlowy-IO/appflowy.svg"></a>
-<a href="https://opensource.org/licenses/AGPL-3.0"><img src="https://img.shields.io/badge/license-AGPL-purple.svg" alt="License: AGPL"></a>
-
+<p align="center" dir="auto">
+    <a href="https://www.appflowy.io" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></b></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+    </font></font><a href="https://discord.gg/9Q2xaN37tV" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Discord</font></font></b></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> •
+    </font></font><a href="https://twitter.com/appflowy" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Twitter</font></font></b></a>
 </p>
-
-<p align="center">
-    <a href="https://www.appflowy.io"><b>Website</b></a> •
-    <a href="https://discord.gg/9Q2xaN37tV"><b>Discord</b></a> •
-    <a href="https://twitter.com/appflowy"><b>Twitter</b></a>
-</p>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/12026239/236664610-fc209a97-815e-4716-af07-d94a859d1907.png" alt="AppFlowy Docs & Notes & Wikis" width="1000px" /></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/12026239/236664628-5def2450-914a-4b2d-b907-92b7476b9863.png" alt="AppFlowy Databases for Tasks and Projects" width="1000px" /></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/12026239/236664642-22e26c1b-5eae-4635-9aa6-b12ecf1c3c46.png" alt="AppFlowy Kanban Board for To-Dos" width="1000px" /></p>
-<p align="center"><img src="https://github.com/AppFlowy-IO/AppFlowy/assets/12026239/6be93d2b-a5c5-48a9-b7cf-c599d5f5140c" alt="AppFlowy Calendars for Plan and Manage Content" width="1000px" /></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/12026239/236664657-dc5291f3-67b0-4a43-a818-640e92735deb.png" alt="AppFlowy OpenAI GPT Writers" width="1000px" /></p>
-
-## User Installation
-
-- [Windows/Mac/Linux](https://docs.appflowy.io/docs/appflowy/install-appflowy/installation-methods/mac-windows-linux-packages)
-- [Docker](https://docs.appflowy.io/docs/appflowy/install-appflowy/installation-methods/installing-with-docker)
-- [Source](https://docs.appflowy.io/docs/documentation/appflowy/from-source)
-
-## Built With
-
-- [Flutter](https://flutter.dev/)
-
-- [Rust](https://www.rust-lang.org/)
-
-## Stay Up-to-Date
-
-<p align="center"><img src="https://github.com/AppFlowy-IO/appflowy/blob/main/doc/imgs/howtostar.gif" alt="AppFlowy Github - how to star the repo" width="100%" /></p>
-
-## Getting Started with development
-
-Please view the [documentation](https://docs.appflowy.io/docs/documentation/appflowy/from-source) for OS specific development instructions
-
-## Roadmap
-
-- [AppFlowy Roadmap ReadMe](https://docs.appflowy.io/docs/appflowy/roadmap)
-- [AppFlowy Public Roadmap](https://github.com/orgs/AppFlowy-IO/projects/5/views/12)
-
-If you'd like to propose a feature, submit a feature request [here](https://github.com/AppFlowy-IO/AppFlowy/issues/new?assignees=&labels=&template=feature_request.yaml&title=%5BFR%5D+) <br/>
-If you'd like to report a bug, submit a bug report [here](https://github.com/AppFlowy-IO/AppFlowy/issues/new?assignees=&labels=&template=bug_report.yaml&title=%5BBug%5D+)
-
-## **Releases**
-
-Please see the [changelog](https://www.appflowy.io/whatsnew) for more details about a given release.
-
-## Contributing
-
-Contributions make the open-source community a fantastic place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Please look at [Contributing to AppFlowy](https://docs.appflowy.io/docs/documentation/software-contributions/contributing-to-appflowy) for details.
-
-If your Pull Request is accepted as it fixes a bug, adds functionality, or makes AppFlowy's codebase significantly easier to use or understand, **Congratulations!** If your administrative and managerial work behind the scenes sustains the community, **Congratulations!** You are now an official contributor to AppFlowy. Get in touch with us ([link](https://tally.so/r/mKP5z3)) to receive the very special Contributor T-shirt!
-Proudly wear your T-shirt and show it to us by tagging [@appflowy](https://twitter.com/appflowy) on Twitter.
-
-## Translations 🌎🗺
-
-[![translation badge](https://inlang.com/badge?url=github.com/AppFlowy-IO/AppFlowy)](https://inlang.com/editor/github.com/AppFlowy-IO/AppFlowy?ref=badge)
-
-To add translations, you can manually edit the JSON translation files in `/frontend/resources/translations`, use the [inlang online editor](https://inlang.com/editor/github.com/AppFlowy-IO/AppFlowy), or run `npx inlang machine translate` to add missing translations.
-
-## Join the community to build AppFlowy together
-
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/12026239/236664610-fc209a97-815e-4716-af07-d94a859d1907.png"><img src="https://user-images.githubusercontent.com/12026239/236664610-fc209a97-815e-4716-af07-d94a859d1907.png" alt="AppFlowy 文档、注释和 Wiki" width="1000px" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/12026239/236664628-5def2450-914a-4b2d-b907-92b7476b9863.png"><img src="https://user-images.githubusercontent.com/12026239/236664628-5def2450-914a-4b2d-b907-92b7476b9863.png" alt="用于任务和项目的 AppFlowy 数据库" width="1000px" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/12026239/236664642-22e26c1b-5eae-4635-9aa6-b12ecf1c3c46.png"><img src="https://user-images.githubusercontent.com/12026239/236664642-22e26c1b-5eae-4635-9aa6-b12ecf1c3c46.png" alt="AppFlowy 待办事项看板" width="1000px" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/12026239/237925643-6be93d2b-a5c5-48a9-b7cf-c599d5f5140c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyOTMzMDUsIm5iZiI6MTcxNDI5MzAwNSwicGF0aCI6Ii8xMjAyNjIzOS8yMzc5MjU2NDMtNmJlOTNkMmItYTVjNS00OGE5LWI3Y2YtYzU5OWQ1ZjUxNDBjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI4VDA4MzAwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzNWZmMzM2MDRiOWVhNjRiYjAyNzUxNTNhZmVmMmRkNTJjMzAxMzFkOGQ0ODlmOWY3MWU5ZDg0MmNiMjQ5NWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TsP1MAdx14euXv9mVDL4gi8xMQaeExmnklU_Wp35YUQ"><img src="https://private-user-images.githubusercontent.com/12026239/237925643-6be93d2b-a5c5-48a9-b7cf-c599d5f5140c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyOTMzMDUsIm5iZiI6MTcxNDI5MzAwNSwicGF0aCI6Ii8xMjAyNjIzOS8yMzc5MjU2NDMtNmJlOTNkMmItYTVjNS00OGE5LWI3Y2YtYzU5OWQ1ZjUxNDBjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI4VDA4MzAwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzNWZmMzM2MDRiOWVhNjRiYjAyNzUxNTNhZmVmMmRkNTJjMzAxMzFkOGQ0ODlmOWY3MWU5ZDg0MmNiMjQ5NWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TsP1MAdx14euXv9mVDL4gi8xMQaeExmnklU_Wp35YUQ" alt="用于计划和管理内容的 AppFlowy 日历" width="1000px" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/12026239/236664657-dc5291f3-67b0-4a43-a818-640e92735deb.png"><img src="https://user-images.githubusercontent.com/12026239/236664657-dc5291f3-67b0-4a43-a818-640e92735deb.png" alt="AppFlowy OpenAI GPT 编写器" width="1000px" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户安装</font></font></h2><a id="user-content-user-installation" class="anchor" aria-label="永久链接：用户安装" href="#user-installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://docs.appflowy.io/docs/appflowy/install-appflowy/installation-methods/mac-windows-linux-packages" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows/Mac/Linux</font></font></a></li>
+<li><a href="https://docs.appflowy.io/docs/appflowy/install-appflowy/installation-methods/installing-with-docker" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">码头工人</font></font></a></li>
+<li><a href="https://docs.appflowy.io/docs/documentation/appflowy/from-source" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来源</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内置</font></font></h2><a id="user-content-built-with" class="anchor" aria-label="永久链接： 构建" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://flutter.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">扑</font></font></a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.rust-lang.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">锈</font></font></a></p>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">保持最新状态</font></font></h2><a id="user-content-stay-up-to-date" class="anchor" aria-label="永久链接：保持最新状态" href="#stay-up-to-date"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto"><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/AppFlowy-IO/appflowy/blob/main/doc/imgs/howtostar.gif" data-target="animated-image.originalLink"><img src="https://github.com/AppFlowy-IO/appflowy/raw/main/doc/imgs/howtostar.gif" alt="AppFlowy Github - 如何为存储库加注星标" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/AppFlowy-IO/appflowy/blob/main/doc/imgs/howtostar.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="AppFlowy Github - how to star the repo" class="AnimatedImagePlayer-animatedImage" src="https://github.com/AppFlowy-IO/appflowy/raw/main/doc/imgs/howtostar.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="215"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play AppFlowy Github - how to star the repo" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play AppFlowy Github - how to star the repo">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open AppFlowy Github - how to star the repo in new window" class="AnimatedImagePlayer-button" href="https://github.com/AppFlowy-IO/appflowy/blob/main/doc/imgs/howtostar.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始开发</font></font></h2><a id="user-content-getting-started-with-development" class="anchor" aria-label="永久链接：开发入门" href="#getting-started-with-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请查看</font></font><a href="https://docs.appflowy.io/docs/documentation/appflowy/from-source" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解操作系统特定的开发说明</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></h2><a id="user-content-roadmap" class="anchor" aria-label="永久链接：路线图" href="#roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://docs.appflowy.io/docs/appflowy/roadmap" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AppFlowy 路线图自述文件</font></font></a></li>
+<li><a href="https://github.com/orgs/AppFlowy-IO/projects/5/views/12"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AppFlowy 公共路线图</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想提出功能，请</font></font><a href="https://github.com/AppFlowy-IO/AppFlowy/issues/new?assignees=&amp;labels=&amp;template=feature_request.yaml&amp;title=%5BFR%5D+"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处</font></font></a> <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交功能请求
+如果您想报告错误，请</font></font><a href="https://github.com/AppFlowy-IO/AppFlowy/issues/new?assignees=&amp;labels=&amp;template=bug_report.yaml&amp;title=%5BBug%5D+"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处提交错误报告</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布</font></font></strong></h2><a id="user-content-releases" class="anchor" aria-label="永久链接：发布" href="#releases"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关给定版本的更多详细信息，</font><font style="vertical-align: inherit;">请参阅</font></font><a href="https://www.appflowy.io/whatsnew" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">变更日志。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献使开源社区成为学习、启发和创造的绝佳场所。我们</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非常感谢</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您所做的任何贡献</font><font style="vertical-align: inherit;">。请参阅</font></font><a href="https://docs.appflowy.io/docs/documentation/software-contributions/contributing-to-appflowy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向 AppFlowy 做出贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解详细信息。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您的 Pull 请求因修复错误、添加功能或使 AppFlowy 的代码库更易于使用或理解而被接受，</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">那么恭喜您！</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您的幕后行政和管理工作能够维持社区的发展，</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">那么恭喜您！</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您现在是 AppFlowy 的官方贡献者。联系我们（</font></font><a href="https://tally.so/r/mKP5z3" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）即可获得非常特别的贡献者 T 恤！自豪地穿上您的 T 恤，并在 Twitter 上标记</font></font><a href="https://twitter.com/appflowy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@appflowy</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向我们展示</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译🌎🗺</font></font></h2><a id="user-content-translations-" class="anchor" aria-label="永久链接：翻译🌎🗺" href="#translations-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://inlang.com/editor/github.com/AppFlowy-IO/AppFlowy?ref=badge" rel="nofollow"><img src="https://camo.githubusercontent.com/7d58b78bd020e9070f57b28ab14a2ed724e93900d18a86c7e7f9f577e16fec1c/68747470733a2f2f696e6c616e672e636f6d2f62616467653f75726c3d6769746875622e636f6d2f417070466c6f77792d494f2f417070466c6f7779" alt="翻译徽章" data-canonical-src="https://inlang.com/badge?url=github.com/AppFlowy-IO/AppFlowy" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要添加翻译，您可以手动编辑 中的 JSON 翻译文件</font></font><code>/frontend/resources/translations</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、使用</font></font><a href="https://inlang.com/editor/github.com/AppFlowy-IO/AppFlowy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">inlang 在线编辑器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或运行</font></font><code>npx inlang machine translate</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来添加缺少的翻译。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入社区，共同构建 AppFlowy</font></font></h2><a id="user-content-join-the-community-to-build-appflowy-together" class="anchor" aria-label="永久链接：加入社区，共同构建 AppFlowy" href="#join-the-community-to-build-appflowy-together"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <a href="https://github.com/AppFlowy-IO/AppFlowy/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AppFlowy-IO/AppFlowy" />
+  <img src="https://camo.githubusercontent.com/8bfcacf3ea51e2b10a816b57725d7e53d4860286ebfe2d7b71337a2c63b1a674/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d417070466c6f77792d494f2f417070466c6f7779" data-canonical-src="https://contrib.rocks/image?repo=AppFlowy-IO/AppFlowy" style="max-width: 100%;">
 </a>
-
-## Why Are We Building This?
-
-Notion has been our favourite project and knowledge management tool in recent years because of its aesthetic appeal and functionality. Our team uses it daily, and we are on its paid plan. However, as we all know, Notion has its limitations. These include weak data security and poor compatibility with mobile devices. Likewise, alternative collaborative workplace management tools also have their constraints.
-
-The limitations we encountered using these tools and our past work experience with collaborative productivity tools have led to our firm belief that there is a glass ceiling on what's possible for these tools in the future. This emanates from the fact that these tools will probably struggle to scale horizontally at some point and be forced to prioritize a proportion of customers whose needs differ from the rest. While decision-makers want a workplace OS, it is impossible to come up with a one-size fits all solution in such a fragmented market.
-
-When a customer's evolving core needs are not satisfied, they either switch to another or build one from the ground up, in-house. Consequently, they either go under another ceiling or buy an expensive ticket to learn a hard lesson. This is a requirement for many resources and expertise, building a reliable and easy-to-use collaborative tool, not to mention the speed and native experience. The same may apply to individual users as well.
-
-All these restrictions necessitate our mission - to make it possible for anyone to create apps that suit their needs well.
-
-- To individuals, we would like to offer Notion's functionality, data security, and cross-platform native experience.
-- To enterprises and hackers, AppFlowy is dedicated to offering building blocks and collaboration infra services to enable you to make apps on your own. Moreover, you have 100% control of your data. You can design and modify AppFlowy your way, with a single codebase written in Flutter and Rust supporting multiple platforms armed with long-term maintainability.
-
-We decided to achieve this mission by upholding the three most fundamental values:
-
-- Data privacy first
-- Reliable native experience
-- Community-driven extensibility
-
-We do not claim to outperform Notion in terms of functionality and design, at least for now. Besides, our priority doesn't lie in more functionality at the moment. Instead, we would like to cultivate a community to democratize the knowledge and wheels of making complex workplace management tools while enabling people and businesses to create beautiful things on their own by equipping them with a versatile toolbox of building blocks.
-
-## License
-
-Distributed under the AGPLv3 License. See [`LICENSE.md`](https://github.com/AppFlowy-IO/AppFlowy/blob/main/LICENSE) for more information.
-
-## Acknowledgements
-
-Special thanks to these amazing projects which help power AppFlowy.IO:
-
-- [flutter-quill](https://github.com/singerdmx/flutter-quill)
-- [cargo-make](https://github.com/sagiegurari/cargo-make)
-- [contrib.rocks](https://contrib.rocks)
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们为什么要建造这个？</font></font></h2><a id="user-content-why-are-we-building-this" class="anchor" aria-label="永久链接：我们为什么要建造这个？" href="#why-are-we-building-this"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">近年来，Notion 因其美观和功能而成为我们最喜&ZeroWidthSpace;&ZeroWidthSpace;欢的项目和知识管理工具。我们的团队每天都使用它，并且我们使用其付费套餐。然而，众所周知，Notion 有其局限性。其中包括数据安全性薄弱以及与移动设备的兼容性差。同样，其他协作工作场所管理工具也有其局限性。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们在使用这些工具时遇到的局限性以及我们过去使用协作生产力工具的工作经验使我们坚信，这些工具未来的可能性存在玻璃天花板。这是因为这些工具可能会在某个时候难以横向扩展，并被迫优先考虑一部分需求与其他客户不同的客户。尽管决策者想要一款工作场所操作系统，但在如此分散的市场中不可能提出一种通用的解决方案。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">当客户不断变化的核心需求得不到满足时，他们要么转向另一种，要么在内部从头开始构建一个。因此，他们要么跌入另一个天花板，要么买一张昂贵的机票来吸取惨痛的教训。这需要许多资源和专业知识，构建可靠且易于使用的协作工具，更不用说速度和本机体验了。这同样也适用于个人用户。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所有这些限制都需要我们的使命——让任何人都可以创建适合他们需求的应用程序。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于个人，我们希望提供Notion的功能、数据安全和跨平台的原生体验。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于企业和黑客，AppFlowy 致力于提供构建块和协作基础设施服务，使您能够自行开发应用程序。此外，您可以 100% 控制您的数据。您可以按照自己的方式设计和修改 AppFlowy，使用 Flutter 和 Rust 编写的单个代码库支持具有长期可维护性的多个平台。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们决定通过坚持三个最基本的价值观来实现这一使命：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据隐私第一</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可靠的原生体验</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区驱动的可扩展性</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们并不声称在功能和设计方面优于 Notion，至少目前是这样。此外，我们目前的首要任务并不在于更多的功能。相反，我们希望建立一个社区，使制作复杂工作场所管理工具的知识和轮子民主化，同时使人们和企业能够通过为他们配备多功能构建块工具箱来自己创造美丽的事物。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据 AGPLv3 许可证分发。请参阅</font></font><a href="https://github.com/AppFlowy-IO/AppFlowy/blob/main/LICENSE"><code>LICENSE.md</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取更多信息。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">致谢</font></font></h2><a id="user-content-acknowledgements" class="anchor" aria-label="永久链接：致谢" href="#acknowledgements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特别感谢这些为 AppFlowy.IO 提供支持的出色项目：</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/singerdmx/flutter-quill"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">颤动羽毛笔</font></font></a></li>
+<li><a href="https://github.com/sagiegurari/cargo-make"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">货运制造商</font></font></a></li>
+<li><a href="https://contrib.rocks" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献摇滚</font></font></a></li>
+</ul>
+</article></div>
